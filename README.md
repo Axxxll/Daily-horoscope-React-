@@ -1,2 +1,2 @@
-# Daily-Horoscope-React-
+# Daily-Horoscope-React
 Learning React 
